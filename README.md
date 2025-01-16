@@ -11,11 +11,11 @@ To contribute, open an issue suggesting one or several tracks. Try to make sure 
 This repository is distributed under the terms of the [replicense](https://github.com/JuxGD/replicense).
 
 ## Tierlist
-[SS tier]
-[S tier]
-[A tier]
-[B tier]
-[C tier]
-[D tier]
-[E tier]
-[F tier]
+[SS tier](ss-tier.md)
+[S tier](s-tier.md)
+[A tier](a-tier.md)
+[B tier](b-tier.md)
+[C tier](c-tier.md)
+[D tier](d-tier.md)
+[E tier](e-tier.md)
+[F tier](f-tier.md)
