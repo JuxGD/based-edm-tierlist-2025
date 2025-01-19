@@ -1,2 +1,2 @@
-### E tier
+### E-tier
 (placeholder)
