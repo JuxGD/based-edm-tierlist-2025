@@ -1,2 +1,2 @@
-### S Tier
+### S-Tier
 (placeholder)
