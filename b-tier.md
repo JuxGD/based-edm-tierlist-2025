@@ -1,3 +1,4 @@
-### B-tier
+### B-Tier
 
-- DEXAMP - SCATTER | KEYGEN EP on Halcyon
+- Tobu - Funk It | Tobu - Funk It on NoCopyrightSounds
+- DEXAMP - SCATTER | DEXAMP - KEYGEN EP on Halcyon

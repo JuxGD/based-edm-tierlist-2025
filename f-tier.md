@@ -1,2 +1,2 @@
-### F-tier
+### F-Tier
 (placeholder)

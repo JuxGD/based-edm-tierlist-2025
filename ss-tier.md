@@ -1,3 +1,3 @@
 ### SS-Tier
 
-- DEXAMP & BANXY - STUPID | KEYGEN EP on Halcyon
+- DEXAMP & BANXY - STUPID | DEXAMP - KEYGEN EP on Halcyon

@@ -1,4 +1,4 @@
 ### S-Tier
 
-- DEXAMP - THEFT | KEYGEN EP on Halcyon
-- DEXAMP - FUN | KEYGEN EP on Halcyon
+- DEXAMP - THEFT | DEXAMP - KEYGEN EP on Halcyon
+- DEXAMP - FUN | DEXAMP - KEYGEN EP on Halcyon

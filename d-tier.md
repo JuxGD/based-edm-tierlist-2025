@@ -1,2 +1,2 @@
-### D-tier
+### D-Tier
 (placeholder)
