@@ -1,6 +1,13 @@
+> [!IMPORTANT]
+> 
+> The Based EDM Tierlist 2025 has moved to Codeberg, at https://codeberg.org/edm2025/based-edm-tierlist-2025.
+
 # Based EDM tierlist 2025
 
 This repository contains an **objectively correct** and **based** tierlist of ALL 2025 electronic music that I know, including unofficial releases. The tracks in each tier are in order of addition, not of quality. It's done by track, not by release, i.e. an LP, EP or A/B will have its individual songs rated separately, rather than the release as a whole.
+
+- Official Fediverse account [@edm2025@catodon.social](https://catodon.social/@edm2025)
+- Bluesky (bridged Fediverse) [@edm2025.codeberg.page](https://bsky.app/profile/edm2025.codeberg.page) (follow [@ap.brid.gy](https://bsky.app/profile/ap.brid.gy) before interacting so that I can see you).
 
 ## Format
 
